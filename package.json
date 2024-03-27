@@ -1,5 +1,31 @@
 {
   "dependencies": {
     "canvas": "^2.11.2"
-  }
+  },
+  "name": "discards",
+  "description": "Dynamic & Customizable Canvas Cards for Discord.js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildrikoo/discards.git"
+  },
+  "keywords": [
+    "Discord-Cards",
+    "Welcome-Card",
+    "Goodbye-Card",
+    "Discards",
+    "Canvas",
+    "Discord"
+  ],
+  "author": "wildrikoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildrikoo/discards/issues"
+  },
+  "homepage": "https://github.com/wildrikoo/discards#readme"
 }
