@@ -1,10 +1,7 @@
 {
-  "dependencies": {
-    "canvas": "^2.11.2"
-  },
   "name": "discards",
-  "description": "Dynamic & Customizable Canvas Cards for Discord.js",
   "version": "0.0.1",
+  "description": "Dynamic & Customizable Canvas Cards for Discord.js",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -24,6 +21,9 @@
   ],
   "author": "wildrikoo",
   "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
   "bugs": {
     "url": "https://github.com/wildrikoo/discards/issues"
   },
